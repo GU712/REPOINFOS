@@ -34,7 +34,6 @@
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 </item>
 
-
 <item>
 <title>[COLOR white]  No restante do ciclo o acesso ficará reduzido [/COLOR]
 [COLOR white]em respeito aos usuários que contribuem. [/COLOR]</title>
@@ -58,7 +57,13 @@
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 </item>
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR white]CONTATO [COLOR yellow] -> [COLOR white]luminartstudio4@gmail.com[/COLOR]</title>
 <link>NOLINK</link>
@@ -67,7 +72,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <info>INFORMAÇÕES DE CONTATO</info>
 <genre>CONTATO</genre>
 </item>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <item>
 <title>[COLOR white]CONTATO [COLOR yellow] -> [COLOR white]  WhatsApp (48) 99194-1409[/COLOR]</title>
@@ -77,7 +81,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <info>INFORMAÇÕES DE CONTATO</info>
 <genre>CONTATO</genre>
 </item>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <item>
 <title>[COLOR white].[/COLOR]</title>
@@ -85,12 +88,12 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 </item>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 <item>
 <title>[COLOR orange][B] OBRIGADO PELA ATENÇÂO [/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg </fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
